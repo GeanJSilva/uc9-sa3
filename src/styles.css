@@ -51,7 +51,7 @@ header {
     height: 40px;
 }
 
-.logo {}
+/*.logo {}*/
 
 .banner {
     height: 610px;    
@@ -104,6 +104,10 @@ header {
     font-size: 25px;
     text-transform: uppercase;
     text-decoration: none;
+}
+
+body{
+    background-color: black;
 }
 
 .conteudo-banner h1 {
